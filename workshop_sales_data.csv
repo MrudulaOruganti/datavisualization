@@ -1,0 +1,301 @@
+order_id,order_date,customer,region,category,product,quantity,unit_price,amount,payment_method,channel,customer_rating
+1078,2026-05-01,Sanjay Gupta,West,Appliances,Coffee Maker,4,11401,45604,Debit Card,Online,3.4
+1216,2026-05-01,Divya Krishnan,West,Furniture,Standing Desk,5,6948,34740,Net Banking,Online,4.2
+1259,2026-05-01,Sanjay Gupta,West,Furniture,Standing Desk,1,11891,11891,Net Banking,In-Store,3.2
+1013,2026-05-03,Priya Nair,North,Stationery,Whiteboard,1,543,543,Debit Card,Online,5.0
+1104,2026-05-03,Sneha Reddy,North,Stationery,Pen Set,5,470,2350,Cash on Delivery,Online,4.6
+1106,2026-05-04,Rohan Iyer,South,Electronics,Headphones,1,54772,54772,Net Banking,Online,3.3
+1001,2026-05-05,Sneha Reddy,North,Electronics,Smartphone,5,18247,91235,Cash on Delivery,In-Store,3.4
+1204,2026-05-05,Arjun Nambiar,West,Electronics,Smartphone,2,51532,103064,UPI,Online,3.3
+1108,2026-05-06,Divya Krishnan,East,Appliances,Coffee Maker,1,8184,8184,Debit Card,Online,4.8
+1147,2026-05-06,Ananya Pillai,West,Stationery,Whiteboard,1,781,781,UPI,Partner Reseller,4.3
+1175,2026-05-06,Rohan Iyer,North,Electronics,Smartphone,4,49765,199060,Cash on Delivery,Partner Reseller,3.3
+1213,2026-05-06,Karthik Rao,South,Furniture,Office Chair,4,20130,80520,UPI,Online,3.7
+1286,2026-05-06,Aarav Mehta,South,Stationery,Pen Set,5,778,3890,Net Banking,In-Store,4.6
+1067,2026-05-07,Meera Suresh,East,Appliances,Coffee Maker,1,9256,9256,Credit Card,Online,3.3
+1186,2026-05-07,Aarav Mehta,North,Appliances,Water Cooler,2,12360,24720,Cash on Delivery,Online,3.8
+1023,2026-05-08,Rohan Iyer,North,Stationery,Notebook,5,1026,5130,Credit Card,Partner Reseller,3.2
+1198,2026-05-08,Sanjay Gupta,West,Furniture,Filing Cabinet,4,20478,81912,Net Banking,Partner Reseller,3.0
+1017,2026-05-10,Meera Suresh,South,Stationery,Sticky Notes,5,320,1600,Debit Card,Online,4.6
+1043,2026-05-10,Sneha Reddy,West,Appliances,Desk Fan,4,9299,37196,UPI,Partner Reseller,4.4
+1289,2026-05-10,Priya Nair,North,Electronics,Smartphone,3,45335,136005,Credit Card,In-Store,3.1
+1074,2026-05-11,Sanjay Gupta,North,Appliances,Water Cooler,2,2696,5392,Cash on Delivery,Partner Reseller,4.9
+1087,2026-05-11,Priya Nair,East,Appliances,Water Cooler,5,1788,8940,UPI,Partner Reseller,4.4
+1118,2026-05-11,Sneha Reddy,East,Appliances,Microwave,3,7985,23955,Cash on Delivery,Online,3.7
+1143,2026-05-11,Arjun Nambiar,North,Stationery,Pen Set,5,1173,5865,Debit Card,Online,4.6
+1209,2026-05-12,Pooja Varma,South,Electronics,Headphones,1,27718,27718,Credit Card,Online,4.6
+1292,2026-05-12,Sneha Reddy,East,Appliances,Desk Fan,5,14261,71305,Cash on Delivery,Online,5.0
+1003,2026-05-13,Rahul Chandran,East,Stationery,Whiteboard,1,990,990,Debit Card,Online,4.1
+1065,2026-05-13,Rohan Iyer,South,Stationery,Pen Set,5,669,3345,Net Banking,Online,4.9
+1070,2026-05-13,Arjun Nambiar,South,Furniture,Bookshelf,2,4660,9320,Credit Card,Online,3.0
+1192,2026-05-13,Sneha Reddy,South,Furniture,Filing Cabinet,4,10128,40512,Debit Card,In-Store,4.9
+1099,2026-05-14,Sanjay Gupta,South,Appliances,Coffee Maker,2,11195,22390,Credit Card,Partner Reseller,4.6
+1148,2026-05-14,Pooja Varma,East,Furniture,Office Chair,2,19891,39782,Debit Card,Partner Reseller,4.0
+1228,2026-05-14,Pooja Varma,North,Electronics,Headphones,3,39321,117963,Debit Card,Online,3.6
+1275,2026-05-14,Ananya Pillai,North,Furniture,Office Chair,4,2402,9608,Debit Card,Online,3.4
+1119,2026-05-15,Aarav Mehta,East,Appliances,Water Cooler,1,11019,11019,UPI,In-Store,4.9
+1267,2026-05-15,Vikram Sharma,South,Appliances,Coffee Maker,2,6385,12770,Cash on Delivery,In-Store,3.7
+1064,2026-05-16,Kiran Kumar,South,Furniture,Standing Desk,5,17866,89330,Cash on Delivery,Partner Reseller,3.6
+1151,2026-05-16,Divya Krishnan,East,Appliances,Microwave,2,6754,13508,Debit Card,In-Store,4.8
+1160,2026-05-16,Meera Suresh,South,Furniture,Standing Desk,5,18188,90940,Net Banking,In-Store,4.6
+1262,2026-05-16,Priya Nair,West,Furniture,Filing Cabinet,1,9502,9502,Net Banking,In-Store,4.8
+1163,2026-05-17,Ananya Pillai,West,Electronics,Laptop,2,36954,73908,UPI,In-Store,4.9
+1174,2026-05-17,Sneha Reddy,North,Appliances,Water Cooler,2,7190,14380,Cash on Delivery,Partner Reseller,3.8
+1082,2026-05-18,Karthik Rao,North,Stationery,Sticky Notes,1,597,597,Net Banking,Partner Reseller,4.2
+1101,2026-05-18,Lakshmi Menon,West,Appliances,Water Cooler,5,8066,40330,UPI,In-Store,4.3
+1135,2026-05-18,Pooja Varma,South,Electronics,Headphones,5,58340,291700,Cash on Delivery,Online,4.3
+1139,2026-05-18,Pooja Varma,East,Electronics,Monitor,5,27327,136635,Credit Card,In-Store,3.2
+1190,2026-05-18,Sanjay Gupta,West,Stationery,Pen Set,4,727,2908,Net Banking,Partner Reseller,3.4
+1235,2026-05-18,Priya Nair,East,Furniture,Bookshelf,4,7050,28200,Debit Card,Partner Reseller,4.0
+1263,2026-05-18,Sanjay Gupta,West,Furniture,Standing Desk,5,19383,96915,UPI,In-Store,3.7
+1116,2026-05-19,Sneha Reddy,West,Electronics,Smartphone,5,51560,257800,Debit Card,In-Store,3.9
+1197,2026-05-20,Divya Krishnan,South,Stationery,Sticky Notes,5,470,2350,Credit Card,Partner Reseller,3.9
+1203,2026-05-20,Sneha Reddy,East,Furniture,Office Chair,1,23633,23633,UPI,Online,3.2
+1006,2026-05-21,Pooja Varma,West,Appliances,Water Cooler,3,4798,14394,Credit Card,Online,4.6
+1117,2026-05-21,Rohan Iyer,East,Stationery,Whiteboard,1,1271,1271,UPI,Partner Reseller,3.1
+1140,2026-05-21,Rahul Chandran,East,Appliances,Desk Fan,4,4837,19348,Net Banking,Online,3.8
+1170,2026-05-21,Divya Krishnan,East,Stationery,Pen Set,4,1070,4280,Net Banking,In-Store,3.0
+1090,2026-05-22,Rahul Chandran,South,Electronics,Tablet,4,28070,112280,Cash on Delivery,Online,3.5
+1215,2026-05-22,Pooja Varma,South,Appliances,Desk Fan,1,9784,9784,Credit Card,Partner Reseller,3.1
+1230,2026-05-22,Sneha Reddy,West,Stationery,Sticky Notes,3,207,621,Debit Card,Partner Reseller,4.2
+1237,2026-05-22,Karthik Rao,North,Appliances,Water Cooler,1,1372,1372,UPI,Partner Reseller,4.5
+1096,2026-05-23,Karthik Rao,South,Furniture,Bookshelf,2,18442,36884,Debit Card,In-Store,4.5
+1287,2026-05-23,Priya Nair,North,Appliances,Microwave,4,2751,11004,UPI,Online,3.0
+1020,2026-05-24,Sanjay Gupta,East,Appliances,Desk Fan,1,2804,2804,Cash on Delivery,Online,4.9
+1024,2026-05-24,Meera Suresh,North,Electronics,Smartphone,5,29461,147305,Credit Card,Partner Reseller,3.2
+1149,2026-05-24,Rahul Chandran,South,Electronics,Monitor,2,5423,10846,Credit Card,In-Store,4.9
+1242,2026-05-24,Vikram Sharma,West,Appliances,Coffee Maker,5,8565,42825,Debit Card,Online,4.4
+1247,2026-05-24,Sneha Reddy,East,Appliances,Coffee Maker,2,9139,18278,Debit Card,Partner Reseller,4.0
+1138,2026-05-25,Vikram Sharma,East,Appliances,Microwave,5,9439,47195,UPI,Online,4.6
+1056,2026-05-26,Kiran Kumar,North,Furniture,Office Chair,1,11882,11882,Cash on Delivery,Online,3.7
+1284,2026-05-26,Vikram Sharma,South,Electronics,Smartphone,3,9924,29772,Credit Card,Partner Reseller,3.7
+1298,2026-05-26,Meera Suresh,South,Stationery,Pen Set,2,171,342,UPI,Online,4.7
+1243,2026-05-27,Sneha Reddy,East,Electronics,Tablet,3,9668,29004,Debit Card,Online,3.5
+1052,2026-05-28,Karthik Rao,West,Stationery,Whiteboard,4,619,2476,Credit Card,In-Store,3.0
+1261,2026-05-28,Aarav Mehta,West,Electronics,Smartphone,4,41907,167628,Credit Card,Partner Reseller,3.7
+1264,2026-05-28,Kiran Kumar,South,Appliances,Microwave,2,2846,5692,Credit Card,Partner Reseller,4.5
+1124,2026-05-29,Sneha Reddy,East,Furniture,Office Chair,5,22749,113745,Net Banking,In-Store,4.5
+1202,2026-05-29,Vikram Sharma,North,Electronics,Headphones,5,33343,166715,UPI,Online,3.9
+1294,2026-05-29,Sneha Reddy,North,Stationery,Notebook,5,1134,5670,UPI,Online,3.5
+1105,2026-05-30,Kiran Kumar,East,Furniture,Office Chair,3,6741,20223,UPI,Online,4.3
+1111,2026-05-30,Ananya Pillai,West,Stationery,Sticky Notes,4,244,976,Net Banking,In-Store,4.9
+1121,2026-05-30,Rahul Chandran,East,Electronics,Monitor,4,59476,237904,Credit Card,In-Store,4.2
+1224,2026-05-30,Kiran Kumar,North,Stationery,Sticky Notes,3,110,330,Debit Card,In-Store,3.5
+1047,2026-05-31,Vikram Sharma,East,Stationery,Whiteboard,2,333,666,UPI,Partner Reseller,3.4
+1054,2026-05-31,Kiran Kumar,South,Appliances,Coffee Maker,3,12660,37980,Net Banking,Online,4.2
+1144,2026-05-31,Divya Krishnan,East,Electronics,Laptop,5,18626,93130,Credit Card,Online,4.7
+1271,2026-05-31,Aarav Mehta,North,Furniture,Office Chair,5,5800,29000,Net Banking,Partner Reseller,4.5
+1295,2026-05-31,Rohan Iyer,East,Electronics,Smartphone,2,40728,81456,UPI,Partner Reseller,3.6
+1157,2026-06-01,Karthik Rao,North,Electronics,Smartphone,1,35705,35705,Net Banking,Partner Reseller,3.9
+1182,2026-06-01,Ananya Pillai,East,Stationery,Pen Set,4,1493,5972,Debit Card,In-Store,4.1
+1199,2026-06-02,Arjun Nambiar,North,Furniture,Office Chair,1,15883,15883,Credit Card,Online,5.0
+1022,2026-06-03,Rohan Iyer,West,Stationery,Sticky Notes,4,1405,5620,UPI,In-Store,3.4
+1274,2026-06-03,Rohan Iyer,North,Appliances,Microwave,5,9385,46925,Net Banking,Online,3.5
+1250,2026-06-04,Karthik Rao,East,Electronics,Monitor,2,38805,77610,Credit Card,In-Store,3.5
+1036,2026-06-05,Karthik Rao,East,Appliances,Water Cooler,5,4125,20625,Credit Card,Online,4.2
+1249,2026-06-05,Arjun Nambiar,South,Stationery,Pen Set,4,1208,4832,Cash on Delivery,Online,4.1
+1088,2026-06-06,Rohan Iyer,South,Electronics,Monitor,4,9451,37804,Net Banking,Online,3.1
+1131,2026-06-06,Priya Nair,West,Appliances,Water Cooler,3,14130,42390,Net Banking,Online,4.1
+1172,2026-06-06,Ananya Pillai,North,Electronics,Monitor,4,11777,47108,Credit Card,In-Store,3.1
+1184,2026-06-06,Pooja Varma,North,Stationery,Sticky Notes,2,1031,2062,Cash on Delivery,In-Store,4.9
+1218,2026-06-06,Sneha Reddy,North,Appliances,Desk Fan,2,3639,7278,Cash on Delivery,Partner Reseller,3.5
+1266,2026-06-06,Karthik Rao,North,Stationery,Pen Set,4,1093,4372,Credit Card,Online,4.0
+1189,2026-06-07,Divya Krishnan,North,Electronics,Headphones,3,40221,120663,Cash on Delivery,Partner Reseller,4.0
+1205,2026-06-07,Sneha Reddy,South,Stationery,Whiteboard,5,343,1715,Debit Card,In-Store,3.6
+1239,2026-06-07,Divya Krishnan,West,Electronics,Laptop,3,57481,172443,UPI,Partner Reseller,4.0
+1193,2026-06-08,Divya Krishnan,North,Stationery,Whiteboard,1,177,177,Net Banking,Online,3.8
+1245,2026-06-08,Ananya Pillai,North,Furniture,Bookshelf,2,9817,19634,UPI,Partner Reseller,3.8
+1212,2026-06-09,Rahul Chandran,East,Stationery,Sticky Notes,3,1011,3033,UPI,In-Store,3.6
+1227,2026-06-09,Divya Krishnan,West,Stationery,Whiteboard,4,228,912,Cash on Delivery,Partner Reseller,4.0
+1270,2026-06-09,Karthik Rao,North,Furniture,Standing Desk,1,12706,12706,Debit Card,Partner Reseller,4.9
+1278,2026-06-09,Meera Suresh,East,Electronics,Tablet,3,32933,98799,Net Banking,Partner Reseller,4.2
+1162,2026-06-10,Sanjay Gupta,North,Appliances,Microwave,5,3302,16510,Cash on Delivery,Online,4.5
+1084,2026-06-11,Lakshmi Menon,South,Furniture,Filing Cabinet,4,15460,61840,Debit Card,In-Store,5.0
+1109,2026-06-11,Lakshmi Menon,South,Electronics,Smartphone,5,21023,105115,Net Banking,In-Store,5.0
+1153,2026-06-11,Ananya Pillai,East,Stationery,Sticky Notes,4,391,1564,Debit Card,Online,4.5
+1253,2026-06-11,Rohan Iyer,East,Stationery,Whiteboard,1,1441,1441,Debit Card,Online,5.0
+1030,2026-06-12,Arjun Nambiar,South,Stationery,Pen Set,4,1179,4716,Credit Card,Online,3.2
+1042,2026-06-12,Sneha Reddy,North,Furniture,Bookshelf,1,8525,8525,Debit Card,Partner Reseller,4.7
+1016,2026-06-13,Sneha Reddy,North,Furniture,Standing Desk,1,4326,4326,Credit Card,Online,4.7
+1097,2026-06-13,Pooja Varma,North,Appliances,Coffee Maker,4,13065,52260,Cash on Delivery,In-Store,3.2
+1027,2026-06-14,Lakshmi Menon,North,Furniture,Bookshelf,5,7169,35845,Net Banking,Partner Reseller,5.0
+1037,2026-06-14,Lakshmi Menon,East,Appliances,Coffee Maker,1,5373,5373,Debit Card,Online,4.0
+1265,2026-06-14,Arjun Nambiar,West,Stationery,Pen Set,2,1370,2740,Cash on Delivery,Partner Reseller,4.4
+1280,2026-06-14,Priya Nair,North,Stationery,Notebook,3,820,2460,UPI,Partner Reseller,5.0
+1154,2026-06-15,Arjun Nambiar,West,Stationery,Notebook,3,1355,4065,UPI,Online,3.3
+1219,2026-06-15,Lakshmi Menon,East,Appliances,Coffee Maker,2,10456,20912,UPI,In-Store,4.4
+1123,2026-06-16,Priya Nair,North,Appliances,Coffee Maker,5,7760,38800,Debit Card,In-Store,4.5
+1299,2026-06-16,Rohan Iyer,North,Stationery,Sticky Notes,3,739,2217,UPI,Partner Reseller,4.9
+1128,2026-06-17,Meera Suresh,East,Electronics,Laptop,4,43305,173220,Cash on Delivery,Partner Reseller,4.8
+1256,2026-06-17,Sanjay Gupta,West,Appliances,Water Cooler,4,13175,52700,Net Banking,Online,4.6
+1282,2026-06-17,Priya Nair,West,Electronics,Tablet,4,9263,37052,Cash on Delivery,Partner Reseller,3.1
+1060,2026-06-18,Ananya Pillai,East,Electronics,Monitor,2,58768,117536,Net Banking,In-Store,3.6
+1069,2026-06-18,Meera Suresh,West,Appliances,Water Cooler,5,6203,31015,Credit Card,Partner Reseller,4.9
+1201,2026-06-18,Arjun Nambiar,West,Electronics,Tablet,2,11715,23430,Debit Card,Partner Reseller,3.3
+1214,2026-06-18,Divya Krishnan,South,Appliances,Water Cooler,4,13317,53268,UPI,Partner Reseller,4.6
+1132,2026-06-19,Rahul Chandran,East,Stationery,Pen Set,2,1243,2486,Net Banking,In-Store,4.9
+1229,2026-06-19,Karthik Rao,North,Furniture,Standing Desk,3,14475,43425,Net Banking,In-Store,3.3
+1098,2026-06-20,Meera Suresh,North,Stationery,Notebook,3,1427,4281,Debit Card,Partner Reseller,4.9
+1141,2026-06-20,Rahul Chandran,East,Furniture,Filing Cabinet,3,14285,42855,Credit Card,Partner Reseller,4.3
+1171,2026-06-20,Divya Krishnan,West,Furniture,Standing Desk,3,13563,40689,Cash on Delivery,Partner Reseller,4.3
+1257,2026-06-20,Ananya Pillai,South,Appliances,Desk Fan,3,14771,44313,Cash on Delivery,Partner Reseller,3.3
+1269,2026-06-20,Arjun Nambiar,East,Appliances,Microwave,5,11694,58470,Cash on Delivery,Online,3.6
+1009,2026-06-21,Pooja Varma,East,Furniture,Standing Desk,1,18171,18171,Credit Card,Online,4.3
+1236,2026-06-21,Priya Nair,West,Electronics,Headphones,1,48982,48982,UPI,Partner Reseller,4.3
+1137,2026-06-22,Sneha Reddy,East,Furniture,Filing Cabinet,5,11336,56680,Net Banking,In-Store,4.8
+1180,2026-06-22,Sneha Reddy,South,Appliances,Microwave,5,3462,17310,Cash on Delivery,In-Store,5.0
+1207,2026-06-22,Karthik Rao,South,Stationery,Sticky Notes,2,1019,2038,UPI,In-Store,4.8
+1048,2026-06-23,Vikram Sharma,West,Stationery,Sticky Notes,4,473,1892,Cash on Delivery,Partner Reseller,3.0
+1081,2026-06-23,Rahul Chandran,West,Appliances,Desk Fan,2,7484,14968,Cash on Delivery,Partner Reseller,4.5
+1107,2026-06-23,Divya Krishnan,North,Electronics,Monitor,1,32378,32378,Cash on Delivery,Online,4.9
+1281,2026-06-23,Rahul Chandran,West,Electronics,Smartphone,2,49638,99276,Cash on Delivery,In-Store,4.4
+1057,2026-06-24,Priya Nair,East,Electronics,Tablet,4,45437,181748,Debit Card,In-Store,4.3
+1115,2026-06-24,Rahul Chandran,North,Stationery,Notebook,3,1489,4467,Net Banking,In-Store,3.0
+1252,2026-06-24,Arjun Nambiar,South,Furniture,Standing Desk,3,8781,26343,Net Banking,Partner Reseller,4.1
+1046,2026-06-27,Karthik Rao,East,Furniture,Bookshelf,2,19081,38162,Debit Card,Online,4.4
+1071,2026-06-27,Priya Nair,West,Stationery,Notebook,4,1497,5988,UPI,In-Store,4.6
+1129,2026-06-27,Kiran Kumar,South,Stationery,Sticky Notes,1,176,176,Net Banking,Partner Reseller,3.2
+1291,2026-06-27,Divya Krishnan,South,Electronics,Tablet,3,43578,130734,Debit Card,Partner Reseller,4.0
+1005,2026-06-28,Meera Suresh,East,Furniture,Bookshelf,1,8865,8865,UPI,Partner Reseller,4.5
+1035,2026-06-28,Ananya Pillai,East,Stationery,Pen Set,4,1401,5604,Net Banking,Online,4.9
+1086,2026-06-28,Ananya Pillai,North,Furniture,Filing Cabinet,3,7058,21174,Cash on Delivery,Partner Reseller,3.8
+1231,2026-06-28,Vikram Sharma,North,Furniture,Bookshelf,5,14966,74830,Net Banking,In-Store,3.7
+1041,2026-06-29,Karthik Rao,West,Appliances,Desk Fan,1,11994,11994,Cash on Delivery,Partner Reseller,4.3
+1169,2026-06-29,Vikram Sharma,North,Stationery,Sticky Notes,3,248,744,Cash on Delivery,In-Store,3.5
+1279,2026-06-29,Rahul Chandran,East,Appliances,Desk Fan,1,3666,3666,Debit Card,Online,3.5
+1127,2026-06-30,Karthik Rao,West,Stationery,Whiteboard,1,770,770,Debit Card,In-Store,3.1
+1187,2026-06-30,Sanjay Gupta,West,Furniture,Bookshelf,1,11352,11352,Cash on Delivery,Online,4.1
+1200,2026-06-30,Ananya Pillai,North,Stationery,Sticky Notes,4,1363,5452,Debit Card,In-Store,4.7
+1240,2026-06-30,Aarav Mehta,North,Appliances,Microwave,1,1932,1932,Net Banking,Partner Reseller,3.2
+1181,2026-07-01,Sanjay Gupta,West,Stationery,Pen Set,3,751,2253,Net Banking,Partner Reseller,4.0
+1050,2026-07-02,Lakshmi Menon,South,Stationery,Sticky Notes,4,846,3384,UPI,In-Store,4.8
+1076,2026-07-02,Pooja Varma,North,Appliances,Water Cooler,1,12179,12179,UPI,In-Store,3.8
+1244,2026-07-02,Meera Suresh,East,Appliances,Microwave,4,6966,27864,UPI,Partner Reseller,4.4
+1297,2026-07-02,Divya Krishnan,North,Electronics,Laptop,5,18245,91225,Credit Card,In-Store,4.8
+1077,2026-07-03,Priya Nair,East,Appliances,Coffee Maker,3,5335,16005,Debit Card,Partner Reseller,4.6
+1145,2026-07-03,Sneha Reddy,North,Furniture,Standing Desk,3,16065,48195,Cash on Delivery,In-Store,3.4
+1221,2026-07-03,Divya Krishnan,West,Stationery,Notebook,5,520,2600,Net Banking,Online,4.8
+1248,2026-07-03,Meera Suresh,West,Appliances,Microwave,1,3940,3940,Credit Card,Online,3.6
+1012,2026-07-04,Rahul Chandran,North,Stationery,Pen Set,5,380,1900,Credit Card,Partner Reseller,3.6
+1039,2026-07-04,Sneha Reddy,East,Appliances,Water Cooler,2,10283,20566,Debit Card,Partner Reseller,4.9
+1165,2026-07-04,Aarav Mehta,South,Furniture,Standing Desk,5,22462,112310,Credit Card,Online,3.1
+1194,2026-07-04,Divya Krishnan,East,Electronics,Headphones,2,27087,54174,UPI,In-Store,4.5
+1277,2026-07-04,Rahul Chandran,North,Furniture,Standing Desk,1,18900,18900,Debit Card,In-Store,4.5
+1150,2026-07-05,Pooja Varma,West,Appliances,Water Cooler,3,5887,17661,Credit Card,Partner Reseller,3.7
+1152,2026-07-06,Arjun Nambiar,East,Electronics,Monitor,2,8172,16344,Net Banking,In-Store,3.2
+1164,2026-07-06,Sanjay Gupta,East,Electronics,Headphones,2,15864,31728,Net Banking,Partner Reseller,4.1
+1063,2026-07-07,Sneha Reddy,East,Appliances,Water Cooler,3,6223,18669,Credit Card,Partner Reseller,3.4
+1110,2026-07-07,Lakshmi Menon,East,Appliances,Microwave,5,11926,59630,UPI,In-Store,3.9
+1014,2026-07-08,Vikram Sharma,South,Furniture,Filing Cabinet,5,7410,37050,UPI,Partner Reseller,4.5
+1053,2026-07-09,Sneha Reddy,North,Stationery,Pen Set,1,1384,1384,UPI,Online,4.2
+1234,2026-07-09,Pooja Varma,South,Electronics,Monitor,3,49423,148269,Credit Card,In-Store,4.3
+1066,2026-07-10,Divya Krishnan,East,Furniture,Filing Cabinet,4,2401,9604,Debit Card,In-Store,3.4
+1079,2026-07-10,Kiran Kumar,South,Stationery,Sticky Notes,5,298,1490,UPI,Partner Reseller,3.3
+1080,2026-07-10,Divya Krishnan,North,Appliances,Coffee Maker,2,3124,6248,Net Banking,Partner Reseller,4.4
+1161,2026-07-10,Kiran Kumar,South,Electronics,Laptop,4,23269,93076,Debit Card,Partner Reseller,3.1
+1225,2026-07-10,Kiran Kumar,West,Appliances,Desk Fan,1,7427,7427,Cash on Delivery,In-Store,4.6
+1173,2026-07-11,Karthik Rao,South,Stationery,Whiteboard,5,1082,5410,Cash on Delivery,Partner Reseller,4.2
+1206,2026-07-11,Kiran Kumar,South,Appliances,Microwave,4,12199,48796,Cash on Delivery,In-Store,4.4
+1208,2026-07-11,Sanjay Gupta,West,Appliances,Desk Fan,3,4531,13593,Credit Card,In-Store,4.7
+1238,2026-07-11,Rohan Iyer,South,Appliances,Water Cooler,5,10843,54215,Net Banking,Online,4.0
+1068,2026-07-12,Kiran Kumar,East,Electronics,Smartphone,5,10762,53810,Cash on Delivery,Online,4.6
+1177,2026-07-12,Meera Suresh,East,Appliances,Coffee Maker,4,2995,11980,Net Banking,Partner Reseller,4.7
+1223,2026-07-12,Arjun Nambiar,South,Appliances,Water Cooler,1,13064,13064,Net Banking,Online,3.2
+1093,2026-07-13,Meera Suresh,East,Stationery,Notebook,1,860,860,Credit Card,Partner Reseller,4.5
+1114,2026-07-13,Priya Nair,South,Furniture,Filing Cabinet,3,5546,16638,Net Banking,Partner Reseller,3.5
+1122,2026-07-13,Kiran Kumar,West,Appliances,Water Cooler,2,6521,13042,Cash on Delivery,In-Store,4.7
+1290,2026-07-13,Ananya Pillai,West,Appliances,Microwave,2,8190,16380,UPI,Online,3.5
+1002,2026-07-15,Sneha Reddy,East,Electronics,Smartphone,2,48753,97506,Net Banking,Online,3.2
+1092,2026-07-15,Priya Nair,East,Appliances,Water Cooler,4,7502,30008,UPI,In-Store,4.1
+1113,2026-07-15,Karthik Rao,East,Electronics,Monitor,1,26173,26173,Cash on Delivery,In-Store,3.7
+1210,2026-07-15,Rahul Chandran,South,Appliances,Desk Fan,2,1451,2902,UPI,Partner Reseller,3.2
+1061,2026-07-16,Divya Krishnan,East,Electronics,Tablet,4,15521,62084,Cash on Delivery,Online,4.4
+1246,2026-07-16,Arjun Nambiar,South,Appliances,Microwave,2,10004,20008,UPI,In-Store,3.6
+1155,2026-07-17,Vikram Sharma,West,Electronics,Smartphone,3,7406,22218,Cash on Delivery,Online,4.2
+1168,2026-07-17,Arjun Nambiar,South,Stationery,Whiteboard,3,866,2598,Cash on Delivery,Online,3.6
+1195,2026-07-17,Kiran Kumar,East,Appliances,Microwave,2,14726,29452,UPI,Partner Reseller,4.5
+1158,2026-07-18,Rahul Chandran,East,Appliances,Desk Fan,2,8606,17212,Debit Card,Online,4.6
+1176,2026-07-18,Pooja Varma,East,Furniture,Filing Cabinet,5,11805,59025,Cash on Delivery,Partner Reseller,4.0
+1051,2026-07-19,Rohan Iyer,North,Appliances,Coffee Maker,4,3423,13692,Credit Card,In-Store,3.8
+1072,2026-07-20,Pooja Varma,South,Appliances,Coffee Maker,3,3641,10923,UPI,Online,3.1
+1095,2026-07-20,Priya Nair,North,Stationery,Sticky Notes,2,797,1594,Net Banking,In-Store,4.5
+1126,2026-07-20,Ananya Pillai,West,Appliances,Microwave,5,11608,58040,Net Banking,Online,3.9
+1178,2026-07-20,Meera Suresh,North,Appliances,Water Cooler,1,4928,4928,Debit Card,Online,4.0
+1255,2026-07-20,Lakshmi Menon,West,Appliances,Microwave,5,7800,39000,Net Banking,Partner Reseller,4.9
+1000,2026-07-21,Sanjay Gupta,North,Electronics,Headphones,1,19049,19049,Cash on Delivery,Online,4.2
+1091,2026-07-21,Rohan Iyer,East,Appliances,Water Cooler,5,5912,29560,Credit Card,In-Store,4.9
+1008,2026-07-22,Lakshmi Menon,West,Furniture,Bookshelf,3,10081,30243,Cash on Delivery,In-Store,4.8
+1062,2026-07-22,Karthik Rao,West,Appliances,Coffee Maker,2,7825,15650,Cash on Delivery,In-Store,3.9
+1130,2026-07-22,Meera Suresh,South,Electronics,Smartphone,5,49374,246870,UPI,In-Store,3.7
+1166,2026-07-22,Karthik Rao,East,Furniture,Filing Cabinet,5,22938,114690,Net Banking,In-Store,3.5
+1019,2026-07-23,Sneha Reddy,North,Electronics,Monitor,2,50724,101448,Cash on Delivery,In-Store,3.3
+1254,2026-07-23,Divya Krishnan,South,Furniture,Standing Desk,4,12554,50216,UPI,Partner Reseller,4.3
+1025,2026-07-24,Rohan Iyer,East,Stationery,Pen Set,4,538,2152,Net Banking,In-Store,3.6
+1083,2026-07-24,Kiran Kumar,West,Furniture,Filing Cabinet,5,17870,89350,Cash on Delivery,In-Store,3.9
+1283,2026-07-24,Ananya Pillai,South,Furniture,Bookshelf,3,12322,36966,Debit Card,In-Store,3.5
+1146,2026-07-25,Arjun Nambiar,North,Stationery,Notebook,5,1089,5445,Credit Card,In-Store,4.7
+1217,2026-07-25,Aarav Mehta,West,Appliances,Coffee Maker,1,7939,7939,Cash on Delivery,Partner Reseller,3.5
+1260,2026-07-25,Vikram Sharma,South,Electronics,Monitor,2,43999,87998,Credit Card,Partner Reseller,3.2
+1040,2026-07-26,Vikram Sharma,South,Stationery,Sticky Notes,2,672,1344,Cash on Delivery,Partner Reseller,4.3
+1156,2026-07-26,Ananya Pillai,West,Stationery,Whiteboard,5,1225,6125,Debit Card,In-Store,4.3
+1011,2026-07-27,Lakshmi Menon,East,Stationery,Notebook,1,373,373,Net Banking,Partner Reseller,4.5
+1103,2026-07-27,Priya Nair,East,Stationery,Notebook,4,438,1752,UPI,Partner Reseller,4.3
+1112,2026-07-27,Lakshmi Menon,West,Electronics,Laptop,1,57511,57511,Net Banking,Online,4.1
+1222,2026-07-27,Rohan Iyer,East,Electronics,Smartphone,5,58733,293665,Debit Card,Online,3.6
+1268,2026-07-27,Sneha Reddy,South,Appliances,Coffee Maker,3,1425,4275,Credit Card,Online,4.9
+1015,2026-07-28,Divya Krishnan,South,Stationery,Sticky Notes,5,814,4070,Credit Card,Online,3.4
+1031,2026-07-28,Aarav Mehta,South,Electronics,Headphones,2,41175,82350,Net Banking,In-Store,4.8
+1233,2026-07-28,Rahul Chandran,West,Furniture,Bookshelf,1,11184,11184,Cash on Delivery,Online,4.2
+1100,2026-07-29,Priya Nair,East,Appliances,Coffee Maker,4,6186,24744,Credit Card,Online,4.8
+1133,2026-07-29,Pooja Varma,West,Furniture,Office Chair,3,20314,60942,UPI,Partner Reseller,4.4
+1185,2026-07-29,Sanjay Gupta,East,Furniture,Office Chair,1,21229,21229,Cash on Delivery,Online,4.3
+1029,2026-07-31,Sanjay Gupta,East,Furniture,Bookshelf,1,18008,18008,Debit Card,In-Store,3.1
+1226,2026-07-31,Ananya Pillai,North,Electronics,Headphones,4,13107,52428,Net Banking,Online,3.2
+1179,2026-08-01,Aarav Mehta,West,Furniture,Standing Desk,2,20761,41522,Debit Card,In-Store,3.8
+1188,2026-08-01,Kiran Kumar,North,Furniture,Filing Cabinet,4,7760,31040,Debit Card,Online,4.9
+1034,2026-08-03,Pooja Varma,South,Stationery,Pen Set,1,271,271,Debit Card,Online,3.4
+1134,2026-08-03,Ananya Pillai,North,Appliances,Water Cooler,2,4153,8306,Debit Card,Online,3.5
+1191,2026-08-03,Arjun Nambiar,East,Stationery,Pen Set,4,1358,5432,Net Banking,Online,3.8
+1272,2026-08-03,Divya Krishnan,South,Electronics,Laptop,2,49392,98784,Net Banking,Partner Reseller,4.0
+1296,2026-08-03,Pooja Varma,East,Electronics,Headphones,2,40201,80402,Debit Card,Partner Reseller,3.6
+1033,2026-08-04,Lakshmi Menon,South,Furniture,Standing Desk,2,7801,15602,Net Banking,In-Store,4.6
+1055,2026-08-04,Sanjay Gupta,North,Furniture,Bookshelf,5,20962,104810,Debit Card,In-Store,4.9
+1021,2026-08-05,Rohan Iyer,South,Furniture,Filing Cabinet,1,17773,17773,Debit Card,Online,5.0
+1026,2026-08-05,Sneha Reddy,North,Electronics,Monitor,5,43708,218540,Cash on Delivery,In-Store,3.3
+1044,2026-08-05,Arjun Nambiar,North,Appliances,Desk Fan,1,8811,8811,UPI,Online,3.9
+1211,2026-08-05,Vikram Sharma,West,Furniture,Standing Desk,3,9842,29526,Debit Card,Partner Reseller,4.3
+1049,2026-08-06,Arjun Nambiar,West,Appliances,Coffee Maker,4,14892,59568,Cash on Delivery,Partner Reseller,4.8
+1075,2026-08-06,Rohan Iyer,East,Electronics,Smartphone,3,33834,101502,Cash on Delivery,In-Store,4.3
+1120,2026-08-07,Rohan Iyer,South,Stationery,Whiteboard,4,65,260,UPI,In-Store,4.1
+1136,2026-08-07,Kiran Kumar,South,Appliances,Desk Fan,5,13833,69165,UPI,Partner Reseller,3.9
+1285,2026-08-07,Kiran Kumar,South,Appliances,Water Cooler,2,2681,5362,Net Banking,Partner Reseller,4.4
+1196,2026-08-09,Rahul Chandran,North,Appliances,Water Cooler,5,2211,11055,Cash on Delivery,Online,4.1
+1293,2026-08-09,Karthik Rao,East,Appliances,Microwave,4,6469,25876,UPI,Online,3.6
+1010,2026-08-10,Arjun Nambiar,West,Electronics,Monitor,3,28009,84027,Credit Card,Partner Reseller,4.4
+1032,2026-08-10,Kiran Kumar,North,Stationery,Pen Set,3,1415,4245,Cash on Delivery,In-Store,4.9
+1073,2026-08-10,Karthik Rao,East,Stationery,Sticky Notes,4,1460,5840,Cash on Delivery,Partner Reseller,4.0
+1085,2026-08-10,Pooja Varma,South,Appliances,Coffee Maker,1,6639,6639,Debit Card,Online,4.1
+1089,2026-08-10,Vikram Sharma,North,Stationery,Whiteboard,5,348,1740,Cash on Delivery,Partner Reseller,4.6
+1142,2026-08-10,Kiran Kumar,South,Furniture,Office Chair,2,17481,34962,Debit Card,In-Store,4.2
+1183,2026-08-10,Pooja Varma,East,Stationery,Notebook,4,1162,4648,Net Banking,Online,3.6
+1045,2026-08-11,Divya Krishnan,West,Stationery,Sticky Notes,5,923,4615,UPI,Partner Reseller,4.7
+1241,2026-08-11,Divya Krishnan,South,Furniture,Standing Desk,4,7247,28988,UPI,In-Store,4.3
+1007,2026-08-12,Sneha Reddy,East,Appliances,Water Cooler,3,12962,38886,Debit Card,In-Store,4.8
+1018,2026-08-12,Vikram Sharma,West,Furniture,Office Chair,4,23593,94372,Debit Card,Partner Reseller,3.1
+1028,2026-08-12,Rohan Iyer,North,Stationery,Notebook,5,286,1430,Net Banking,In-Store,4.2
+1038,2026-08-12,Sanjay Gupta,South,Stationery,Sticky Notes,3,726,2178,Credit Card,Partner Reseller,4.8
+1167,2026-08-12,Vikram Sharma,West,Stationery,Sticky Notes,4,172,688,Debit Card,In-Store,3.4
+1125,2026-08-13,Rohan Iyer,South,Furniture,Office Chair,5,10387,51935,Credit Card,Online,4.9
+1232,2026-08-13,Rohan Iyer,South,Stationery,Whiteboard,3,461,1383,Debit Card,In-Store,3.6
+1251,2026-08-13,Lakshmi Menon,North,Appliances,Coffee Maker,5,14482,72410,Net Banking,Partner Reseller,4.2
+1059,2026-08-14,Kiran Kumar,East,Stationery,Pen Set,2,621,1242,Debit Card,Partner Reseller,4.2
+1273,2026-08-14,Ananya Pillai,East,Furniture,Bookshelf,1,10806,10806,Debit Card,In-Store,4.0
+1004,2026-08-15,Priya Nair,East,Furniture,Office Chair,3,23668,71004,UPI,Online,3.8
+1058,2026-08-15,Kiran Kumar,West,Furniture,Filing Cabinet,5,19096,95480,Cash on Delivery,In-Store,3.9
+1094,2026-08-15,Sanjay Gupta,East,Furniture,Bookshelf,3,22860,68580,UPI,Partner Reseller,3.2
+1102,2026-08-15,Divya Krishnan,West,Appliances,Water Cooler,4,4759,19036,UPI,In-Store,3.2
+1288,2026-08-15,Meera Suresh,South,Furniture,Standing Desk,1,15126,15126,Cash on Delivery,In-Store,4.8
+1159,2026-08-17,Lakshmi Menon,East,Stationery,Notebook,2,644,1288,UPI,In-Store,4.0
+1220,2026-08-17,Aarav Mehta,North,Electronics,Laptop,4,29560,118240,Credit Card,Partner Reseller,3.3
+1258,2026-08-18,Aarav Mehta,West,Stationery,Notebook,4,1332,5328,Credit Card,Online,3.9
+1276,2026-08-18,Karthik Rao,North,Appliances,Desk Fan,3,13001,39003,Credit Card,Partner Reseller,3.7
